@@ -20,7 +20,7 @@ Sample input data:
 
 Output data (example, not exact):
 
-```
+```json
 {
   "titles": [
     {
