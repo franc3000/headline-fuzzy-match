@@ -1,0 +1,25 @@
+{
+  "titles": [
+    {
+      "fuzzy_match_titles": [
+        "Access denied | www.ejinsight.com used Cloudflare to restrict access",
+        "Access denied | www.ejinsight.com used Cloudflare to restrict access",
+        "Access denied | www.hongkongfp.com used Cloudflare to restrict access",
+        "Access denied | www.thedailybeast.com used Cloudflare to restrict access",
+        "Access denied | www.tribuna.com.mx used Cloudflare to restrict access",
+        "Access denied | www.zocalo.com.mx used Cloudflare to restrict access"
+      ],
+      "main_title": "Access denied | www.analitica.com used Cloudflare to restrict access"
+    },
+    {
+      "fuzzy_match_titles": [
+        "Ex-HK leader Tsang gets 20 months jail for misconduct | TODAYonline",
+        "Ex-Hong Kong leader jailed 20 months for misconduct | Daily Mail Online",
+        "Ex-Hong Kong leader jailed 20 months for misconduct | Daily Mail Online",
+        "Ex-Hong Kong Leader Tsang Jailed 20 Months for Misconduct - Bloomberg",
+        "Ex-Hong Kong Leader Tsang Jailed 20 Months for Misconduct Bloomberg Â«  Contacto Latino News"
+      ],
+      "main_title": "Ex-Hong Kong leader gets 20 months in prison for misconduct - MarketWatch"
+    }
+  ]
+}
