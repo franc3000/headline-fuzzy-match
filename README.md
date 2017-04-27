@@ -1,6 +1,8 @@
 # headline-fuzzy-match
 fuzzy matching of headlines to identify unique strings
 
+The purpose of this code is to take an array of strings, and determine which ones are highly similar.
+
 Sample input data:
 
 ```json
